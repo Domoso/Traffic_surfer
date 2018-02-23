@@ -1,4 +1,51 @@
+body {
+  background-color: #1a1eba;
+  color: white;
+  font-weight: bold; }
+
+header {
+  margin-top: 15%; }
+
 .trafficsurferimg {
   margin-left: 33%; }
+
+.stats {
+  background-color: blue; }
+
+.logos {
+  margin-top: 10%;
+  margin-left: 2%; }
+
+.list_logo {
+  text-decoration: none;
+  display: inline; }
+
+.form {
+  height: 75px;
+  width: 300px;
+  border: 1px solid black;
+  margin-top: 10%;
+  margin-left: 7%; }
+
+.form-check {
+  margin-left: 26%; }
+
+.or {
+  margin-left: 41%; }
+
+.time1, .time2 {
+  margin-top: -8%; }
+
+.time {
+  margin-top: 6%;
+  margin-left: 8%; }
+
+.btn {
+  margin-top: 5%;
+  margin-left: 20%; }
+
+.form-control {
+  background-color: #1a1eba;
+  color: white; }
 
 /*# sourceMappingURL=style.css.map */
