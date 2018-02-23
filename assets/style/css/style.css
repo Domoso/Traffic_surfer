@@ -1,5 +1,6 @@
 body {
-  background-color: #6AB187;
+  background: -webkit-gradient(linear, left top, left bottom, from(#02076F), to(#60D1D6));
+  background: linear-gradient(#02076F, #60D1D6);
   color: white;
   font-weight: bold; }
 
@@ -8,8 +9,7 @@ header {
   width: 109%;
   margin-left: -5%;
   padding-top: 6%;
-  padding-bottom: 5%;
-  background-color: #20948B; }
+  padding-bottom: 5%; }
 
 .trafficsurferimg {
   margin-left: 33%; }
@@ -50,5 +50,8 @@ header {
   margin-top: 5%;
   margin-left: 20%;
   background-color: #DE7A22; }
+
+.and {
+  margin-left: 1%; }
 
 /*# sourceMappingURL=style.css.map */
