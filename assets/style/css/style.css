@@ -1,20 +1,26 @@
 body {
-  background-color: #1a1eba;
+  background-color: #6AB187;
   color: white;
   font-weight: bold; }
 
 header {
-  margin-top: 15%; }
+  height: 10%;
+  width: 108%;
+  margin-left: -4%;
+  padding-top: 6%;
+  padding-bottom: 5%;
+  background-color: #20948B; }
 
 .trafficsurferimg {
   margin-left: 33%; }
 
-.stats {
-  background-color: blue; }
+.house {
+  border-radius: 50%; }
 
 .logos {
   margin-top: 10%;
-  margin-left: 2%; }
+  margin-left: 2%;
+  color: #DE7A22; }
 
 .list_logo {
   text-decoration: none;
@@ -42,10 +48,7 @@ header {
 
 .btn {
   margin-top: 5%;
-  margin-left: 20%; }
-
-.form-control {
-  background-color: #1a1eba;
-  color: white; }
+  margin-left: 20%;
+  background-color: #DE7A22; }
 
 /*# sourceMappingURL=style.css.map */
