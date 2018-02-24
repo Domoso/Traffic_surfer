@@ -1,0 +1,82 @@
+body {
+  background-color: white;
+  color: black;
+  font-weight: bold;
+  z-index: 1; }
+
+header {
+  height: 10%;
+  width: 109%;
+  margin-left: -5%;
+  padding-top: 6%;
+  padding-bottom: 5%;
+  z-index: 2;
+  background-color: #F4CC70; }
+
+.trafficsurferimg {
+  margin-left: 33%;
+  z-index: 2; }
+
+.house {
+  margin-bottom: -16%;
+  margin-left: 38%;
+  height: 70px;
+  width: 70px;
+  border: 1px solid white;
+  border-radius: 50%;
+  z-index: 2; }
+
+.stats {
+  margin-top: 4%;
+  margin-left: 6%;
+  line-height: 19%;
+  font-weight: normal;
+  color: white; }
+
+.logos {
+  margin-top: 12%;
+  margin-left: 2%;
+  color: #F4CC70;
+  z-index: 2; }
+
+.list_logo {
+  text-decoration: none;
+  display: inline;
+  z-index: 2; }
+
+.form {
+  height: 75px;
+  width: 300px;
+  border: 1px solid black;
+  margin-top: 10%;
+  margin-left: 7%;
+  z-index: 2; }
+
+.form-check {
+  margin-left: 26%;
+  z-index: 2; }
+
+.or {
+  margin-left: 41%;
+  z-index: 2; }
+
+.time1, .time2 {
+  margin-top: -8%;
+  z-index: 2; }
+
+.time {
+  margin-bottom: 29%;
+  z-index: 2; }
+
+.btn {
+  height: 65px;
+  width: 100%;
+  background-color: #F4CC70;
+  border: none;
+  z-index: 2; }
+
+.and {
+  margin-left: 1%;
+  z-index: 2; }
+
+/*# sourceMappingURL=stylemain.css.map */

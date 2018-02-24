@@ -1,11 +1,15 @@
-.body {
-	height: 50%;
-	width: 100%;
-	// background: linear-gradient(#02076F, #60D1D6);
-	color: white;
+body {
+	background-color: white;
+	color: black;
 	font-weight: bold;
 	z-index: 1;
 }
+
+// .haut_de_lecran {
+// 	height: 10%;
+// 	width: 100%;
+// 	background-color: #20948B;
+// }
 
 header {
 	height: 10%;
@@ -14,6 +18,7 @@ header {
 	padding-top: 6%;
 	padding-bottom: 5%;
 	z-index: 2;
+	background-color: #F4CC70;
 }
 
 .trafficsurferimg {
@@ -22,14 +27,27 @@ header {
 }
 
 .house {
+	margin-bottom: -16%;
+	margin-left: 38%;
+	height: 70px;
+	width: 70px;
+	border: 1px solid white;
 	border-radius: 50%;
 	z-index: 2;
 }
 
+.stats {
+	margin-top: 4%;
+	margin-left: 6%;
+	line-height: 19%;
+	font-weight: normal;
+	color: white;
+}
+
 .logos {
-	margin-top:10%;
+	margin-top:12%;
 	margin-left: 2%;
-	color: #DE7A22;
+	color: #F4CC70;
 	z-index: 2;
 }
 
@@ -64,15 +82,15 @@ header {
 }
 
 .time {
-	margin-top: 6%;
-	margin-left: 8%;
+	margin-bottom: 29%;
 	z-index: 2;
 }
 
 .btn {
-	margin-top: 5%;
-	margin-left: 20%;
-	background-color: #DE7A22;
+	height: 65px;
+	width: 100%;
+	background-color: #F4CC70;
+	border: none;
 	z-index: 2;
 }
 
