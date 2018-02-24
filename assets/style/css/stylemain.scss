@@ -44,9 +44,18 @@ header {
 	color: white;
 }
 
+.stats2 {
+	margin-top: 4%;
+	margin-left: 6%;
+	line-height: 19%;
+	font-weight: normal;
+	color: white;
+	text-align: right;
+}
+
 .logos {
-	margin-top:12%;
-	margin-left: 2%;
+	margin-top:18%;
+	margin-left: 4%;
 	color: #F4CC70;
 	z-index: 2;
 }
@@ -61,28 +70,31 @@ header {
 	height: 75px;
 	width: 300px;
 	border: 1px solid black;
-	margin-top: 10%;
-	margin-left: 7%;
+	margin-top: 13%;
+	margin-left: 10%;
 	z-index: 2;
 }
 
 .form-check {
-	margin-left: 26%;
+	margin-top: 2%;
+	margin-left: 31%;
 	z-index: 2;
 }
 
 .or {
-	margin-left: 41%;
+	margin-top: 2%;
+	margin-left: 44%;
 	z-index: 2;
 }
 
 .time1, .time2 {
-	margin-top: -8%;
+	margin-top: -5%;
+	margin-left: 4%;
 	z-index: 2;
 }
 
 .time {
-	margin-bottom: 29%;
+	margin-bottom: 20%;
 	z-index: 2;
 }
 
@@ -94,7 +106,13 @@ header {
 	z-index: 2;
 }
 
+.between {
+	margin-top: 15%;
+	margin-left: 32%;
+}
+
 .and {
+	margin-top: 55%;
 	margin-left:1%;
 	z-index: 2;
 }
