@@ -1,15 +1,8 @@
 body {
-	background-color: white;
+	background-color: rgba(96,209,214,0.5);
 	color: black;
 	font-weight: bold;
-	z-index: 1;
 }
-
-// .haut_de_lecran {
-// 	height: 10%;
-// 	width: 100%;
-// 	background-color: #20948B;
-// }
 
 header {
 	height: 10%;
@@ -17,13 +10,20 @@ header {
 	margin-left: -5%;
 	padding-top: 6%;
 	padding-bottom: 5%;
-	z-index: 2;
-	background-color: #F4CC70;
+	background-color: rgba(2,7,111,0.7);
+}
+
+input {
+	border: 1px solid black;
+}
+
+#from-link, #to-link {
+	text-decoration: none;
+	color: black;
 }
 
 .trafficsurferimg {
 	margin-left: 33%;
-	z-index: 2;
 }
 
 .house {
@@ -33,12 +33,12 @@ header {
 	width: 70px;
 	border: 1px solid white;
 	border-radius: 50%;
-	z-index: 2;
 }
 
 .stats {
 	margin-top: 4%;
 	margin-left: 6%;
+	padding-top: 9%;
 	line-height: 19%;
 	font-weight: normal;
 	color: white;
@@ -47,6 +47,7 @@ header {
 .stats2 {
 	margin-top: 4%;
 	margin-left: 6%;
+	padding-top: 9%;
 	line-height: 19%;
 	font-weight: normal;
 	color: white;
@@ -56,54 +57,43 @@ header {
 .logos {
 	margin-top:18%;
 	margin-left: 4%;
-	color: #F4CC70;
-	z-index: 2;
+	color: rgba(68,117,224,0.7);
 }
 
 .list_logo {
 	text-decoration: none;
 	display: inline;
-	z-index: 2;
 }
 
 .form {
-	height: 75px;
-	width: 300px;
-	border: 1px solid black;
 	margin-top: 13%;
 	margin-left: 10%;
-	z-index: 2;
 }
 
 .form-check {
 	margin-top: 2%;
 	margin-left: 31%;
-	z-index: 2;
 }
 
 .or {
 	margin-top: 2%;
 	margin-left: 44%;
-	z-index: 2;
 }
 
 .time1, .time2 {
 	margin-top: -5%;
 	margin-left: 4%;
-	z-index: 2;
 }
 
 .time {
-	margin-bottom: 20%;
-	z-index: 2;
+	margin-bottom: 10%
 }
 
 .btn {
 	height: 65px;
 	width: 100%;
-	background-color: #F4CC70;
+	background-color: rgba(68,117,224,0.7);
 	border: none;
-	z-index: 2;
 }
 
 .between {
@@ -114,5 +104,12 @@ header {
 .and {
 	margin-top: 55%;
 	margin-left:1%;
-	z-index: 2;
+}
+
+.lastbutton {
+	color: white;
+}
+
+.lastbutton a {
+	text-decoration: none;
 }
